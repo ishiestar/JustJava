@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">JustJava</string>
+    <string name="products_prompt">Choose a product</string>
+    <string-array name="products">
+        <item>Cappuccino</item>
+        <item>Chilled brew</item>
+        <item>Espresso</item>
+        <item>Mocha</item>
+    </string-array>
     <string name="action_settings">Settings</string>
 </resources>
